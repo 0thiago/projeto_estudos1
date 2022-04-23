@@ -162,7 +162,7 @@ main img.pequena {
 
 main a {
     text-decoration: none;
-    font-weight: 111;
+    font-weight: bold;
     color: var(--cor3);
     text-shadow: 
         
